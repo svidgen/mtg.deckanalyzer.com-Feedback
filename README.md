@@ -1,4 +1,4 @@
-# mtg.deckanalyzer.com Feedback
+# [mtg.deckanalyzer.com](http://mtg.deckanalyzer.com/) Feedback
 This is a public space to provide feedback for mtg.deckanalyzer.com.
 
 The development team will monitor the **bugs** and **feature requests** reported here and routinely work on the top issues.
