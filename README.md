@@ -9,4 +9,4 @@ Throw your support behind issues you think are important by [giving a thumbs up]
 
 ## *Ready!?* ... Give us your feedback [*HERE*](https://github.com/svidgen/mtg.deckanalyzer.com-Feedback/issues).
 
-***Thanks!***
+**Thanks!**
