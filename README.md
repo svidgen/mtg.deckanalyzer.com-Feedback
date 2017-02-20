@@ -5,7 +5,7 @@ The development team will monitor the [**bugs** and **feature requests**](https:
 
 ### Please report new bugs and great ideas!
 
-Throw your support behind issues you think are important by commenting or adding a reaction. Just try to avoid adding duplicate issues, fragmenting feedback and ativity. *Remember*, the issues with the most activity will be our first priority. (After any *serious* open defects.)
+Throw your support behind issues you think are important by [giving a thumbs up](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments). And add an issue for anything that's not on the list. But, try to avoid adding duplicates that will fragment feedback and ativity. *Remember,* we prioritize issues primarily by the number of [+1's](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments) they receive.
 
 ## *Ready!?* ... Give us your feedback [*HERE*](https://github.com/svidgen/mtg.deckanalyzer.com-Feedback/issues).
 
