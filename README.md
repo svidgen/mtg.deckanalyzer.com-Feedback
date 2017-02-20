@@ -10,3 +10,13 @@ Throw your support behind issues you think are important by [giving a thumbs up]
 ## *Ready!?* ... Give us your feedback [*HERE*](https://github.com/svidgen/mtg.deckanalyzer.com-Feedback/issues).
 
 **Thanks!**
+
+---
+
+### Additional Details
+
+Here are the lists of issues we'll be working with:
+
+* [In Progress](https://github.com/svidgen/mtg.deckanalyzer.com-Feedback/issues/assigned/*) :  Issues that we're already working on.
+* [Most Popular Unassigned](https://github.com/svidgen/mtg.deckanalyzer.com-Feedback/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee+sort%3Areactions-%2B1-desc) : Issues sorted by +1's. Items at the top are next on our todo list.
+* [New Issues](https://github.com/svidgen/mtg.deckanalyzer.com-Feedback/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee+sort%3Acreated-desc) : We'll occasionally check this for emergent, *serious* problems.
