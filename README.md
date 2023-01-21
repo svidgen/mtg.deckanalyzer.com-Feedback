@@ -5,7 +5,7 @@ The development team will monitor the [**bugs** and **feature requests**](https:
 
 ### Please report new bugs and great ideas!
 
-Throw your support behind issues you think are important by [giving a thumbs up](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments). And add an issue for anything that's not on the list. But, try to avoid adding duplicates that will fragment feedback and ativity. *Remember,* we prioritize issues primarily by the number of [+1's](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments) they receive.
+Throw your support behind issues you think are important commenting or [giving a 👍](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments). And add an issue for anything that's not on the list. But, try to avoid adding duplicates that will fragment feedback and ativity. We consider the number of comments and 👍's on issues when we decide what to do next.
 
 ## *Ready!?* ... Give us your feedback [*HERE*](https://github.com/svidgen/mtg.deckanalyzer.com-Feedback/issues).
 
@@ -15,8 +15,10 @@ Throw your support behind issues you think are important by [giving a thumbs up]
 
 ### Additional Details
 
-Here are the lists of issues we'll be working with:
+Here are the public lists we'll be working with:
 
 * [In Progress](https://github.com/svidgen/mtg.deckanalyzer.com-Feedback/issues/assigned/*) :  Issues that we're already working on.
-* [Most Popular Unassigned](https://github.com/svidgen/mtg.deckanalyzer.com-Feedback/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee+sort%3Areactions-%2B1-desc) : Issues sorted by +1's. Items at the top are next on our todo list.
-* [New Issues](https://github.com/svidgen/mtg.deckanalyzer.com-Feedback/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee+sort%3Acreated-desc) : We'll occasionally check this for emergent, *serious* problems.
+* [Most Upvoted Unassigned](https://github.com/svidgen/mtg.deckanalyzer.com-Feedback/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee+sort%3Areactions-%2B1-desc) : Issues sorted by 👍's. Issues with many votes are likely to be accepted. And those with meaningful, helpful comments are likely to get a little priority boost.
+* [New Issues](https://github.com/svidgen/mtg.deckanalyzer.com-Feedback/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee+sort%3Acreated-desc) : We'll occasionally check this for emergent, *serious* problems that need to jump that line.
+
+Note that we also have an internal queue for sensitive, critical, and "boring" issues.
